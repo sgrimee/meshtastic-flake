@@ -1,3 +1,6 @@
 .direnv/
-.venv/
+venv/
 configs/
+*.zip
+*.bin
+*.uf2
